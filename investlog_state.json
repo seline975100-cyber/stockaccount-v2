@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "date": "2026-05-09",
+      "code": "2330",
+      "name": "台積電",
+      "action": "buy",
+      "qty": 1,
+      "price": 1000
+    }
+  ],
+  "prices": {},
+  "priceType": {},
+  "priceSource": {},
+  "settings": {
+    "feeRate": 0.1425
+  }
+}
