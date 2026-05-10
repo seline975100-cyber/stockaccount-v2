@@ -1,18 +1,45 @@
 {
-  "records": [
-    {
-      "id": 1,
-      "date": "2026-05-09",
-      "code": "2330",
-      "name": "台積電",
-      "action": "buy",
-      "qty": 1,
-      "price": 1000
-    }
-  ],
+  "records": [],
   "prices": {},
   "priceType": {},
   "priceSource": {},
+  "baseHoldings": [
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "qty": 307,
+      "avgCost": 76.95,
+      "totalCost": 23624
+    },
+    {
+      "code": "2303",
+      "name": "聯電",
+      "qty": 150,
+      "avgCost": 72.37,
+      "totalCost": 10855
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "qty": 35,
+      "avgCost": 2008.66,
+      "totalCost": 70303
+    },
+    {
+      "code": "2330",
+      "name": "台積電",
+      "qty": 60,
+      "avgCost": 1956.02,
+      "totalCost": 117361
+    },
+    {
+      "code": "2454",
+      "name": "聯發科",
+      "qty": 5,
+      "avgCost": 3414.8,
+      "totalCost": 17074
+    }
+  ],
   "settings": {
     "feeRate": 0.1425
   }
